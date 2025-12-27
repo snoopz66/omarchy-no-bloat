@@ -10,7 +10,6 @@ reinstall_package_opr() {
 omarchy-pkg-drop yay-bin-debug
 
 reinstall_package_opr yay-bin yay
-reinstall_package_opr obsidian-bin obsidian
 reinstall_package_opr localsend-bin localsend
 reinstall_package_opr omarchy-chromium-bin omarchy-chromium
 reinstall_package_opr python-terminaltexteffects

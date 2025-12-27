@@ -1,8 +1,8 @@
 # Omarchy core package list installed via install/packaging/base.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
+# 1password-beta
+# 1password-cli
 aether
 alacritty
 asdcontrol
@@ -10,14 +10,14 @@ avahi
 bash-completion
 bat
 bluetui
-bolt
+# bolt
 brightnessctl
 btop
 clang
-cups
-cups-browsed
-cups-filters
-cups-pdf
+# cups
+# cups-browsed
+# cups-filters
+# cups-pdf
 docker
 docker-buildx
 docker-compose
@@ -34,9 +34,10 @@ fd
 ffmpegthumbnailer
 fontconfig
 fzf
+firefox
 ghostty
-github-cli
-gnome-calculator
+# github-cli
+# gnome-calculator
 gnome-keyring
 gnome-themes-extra
 grim
@@ -59,7 +60,7 @@ inetutils
 inxi
 iwd
 jq
-kdenlive
+# kdenlive
 kvantum-qt5
 lazydocker
 lazygit
@@ -69,11 +70,11 @@ libyaml
 libqalculate
 libreoffice-fresh
 llvm
-localsend
+# localsend
 luarocks
 mako
 man-db
-mariadb-libs
+# mariadb-libs
 mise
 mpv
 nautilus
@@ -84,8 +85,8 @@ noto-fonts-emoji
 noto-fonts-extra
 nss-mdns
 nvim
-obs-studio
-obsidian
+# obs-studio
+# obsidian
 omarchy-chromium
 omarchy-nvim
 omarchy-walker
@@ -95,18 +96,18 @@ playerctl
 plocate
 plymouth
 polkit-gnome
-postgresql-libs
+# postgresql-libs
 power-profiles-daemon
 python-gobject
 python-poetry-core
 python-terminaltexteffects
 qt5-wayland
 ripgrep
-ruby
+# ruby
 rust
 satty
 sddm
-signal-desktop
+# signal-desktop
 slurp
 spotify
 starship
@@ -122,8 +123,8 @@ ttf-ia-writer
 ttf-jetbrains-mono-nerd
 typora
 tzupdate
-ufw
-ufw-docker
+# ufw
+# ufw-docker
 unzip
 usage
 uwsm
@@ -143,3 +144,4 @@ xournalpp
 yaru-icon-theme
 yay
 zoxide
+zed

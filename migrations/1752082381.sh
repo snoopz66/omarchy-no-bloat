@@ -1,3 +1,3 @@
-echo "Adding gnome-keyring to make 1password work with 2FA codes"
+echo "Ensure gnome-keyring is installed for secret storage"
 
 omarchy-pkg-add gnome-keyring
